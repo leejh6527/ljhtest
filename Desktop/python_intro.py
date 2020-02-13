@@ -1,4 +1,4 @@
-girls = ['younghee', 'chulsoo', 'hooni', 'subi']
+girls = ['younghee', 'chulsoo', 'hooni', 'subi', 'chanwoo', 'hyunwoo']
 
 def hi(name):
     print('Hi ' + name + '!')
